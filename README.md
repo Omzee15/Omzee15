@@ -47,7 +47,7 @@
   
   <!-- Subtitle -->
   <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" opacity="0.9">
-    Full Stack Developer
+    AI & Full Stack Developer
   </text>
   
   <!-- Tagline -->
@@ -121,9 +121,8 @@
   </circle>
 </svg>
 
-**Thanks for stopping by!** 🙏
+---
 
-### 🎮 **Gotta catch 'em all!**
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" width="50" height="50"/>
