@@ -3,19 +3,7 @@
 <!-- Animated Header -->
 <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad**Thanks for stopping by!** 🙏
-
-### 🎮 **Gotta catch 'em all!**
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png" width="50" height="50"/>
-
-</div>%" x2="100%" y2="0%">
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
     </linearGradient>
@@ -133,19 +121,17 @@
   </circle>
 </svg>
 
-**Thanks for stopping by!** �
+**Thanks for stopping by!** 🙏
 
-</div><!--
-**Omzee15/Omzee15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎮 **Gotta catch 'em all!**
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" width="50" height="50"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
