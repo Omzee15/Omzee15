@@ -90,7 +90,9 @@
 
 ### *One of the greatest portfolios you might have seen*
 
-[![Website](https://img.shields.io/badge/-omzee.codes-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6B6B)](https://omzee.codes)
+<a href="https://omzee.codes" target="_blank">
+  <img src="https://img.shields.io/badge/-omzee.codes-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6B6B" alt="Website"/>
+</a>
 
 </div>
 
