@@ -5,6 +5,16 @@
   <defs>
     <linearGradient id="grad**Thanks for stopping by!** 🙏
 
+### 🎮 **Gotta catch 'em all!**
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png" width="50" height="50"/>
+
 </div>%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
@@ -69,19 +79,14 @@
 
 <div align="center">
 
-### 💻 **Languages & Frameworks**
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white&labelColor=47848F)
-
-### 🔧 **Hardware & IoT**
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=00979D)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=A22846)
-
-### 🤖 **AI Tools & Assistants**
 ![Lovable](https://img.shields.io/badge/-Lovable-FF6B6B?style=for-the-badge&logo=heart&logoColor=white&labelColor=FF6B6B)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=000000)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
@@ -91,33 +96,11 @@
 
 ---
 
-## 💫 **Philosophy**
-
 <div align="center">
 
-### **Built with the motto C3**
+## 🌐 **Portfolio**
 
-```pseudocode
-for (let purpose in community) {
-    if (purpose === "IN") {
-        build.inTheCommunity();
-    }
-    else if (purpose === "FOR") {
-        build.forTheCommunity();
-    }
-    else if (purpose === "WITH") {
-        build.withTheCommunity();
-    }
-}
-
-// Output: Creating impact IN, FOR, and WITH the community 🌟
-```
-
-</div>
-
----
-
-<div align="center">
+### *One of the greatest portfolios you might have seen*
 
 [![Website](https://img.shields.io/badge/-omzee.codes-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6B6B)](https://omzee.codes)
 
