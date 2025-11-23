@@ -86,8 +86,6 @@
 
 <div align="center">
 
-## 🌐 **Portfolio**
-
 ### *One of the greatest portfolios you might have seen*
 
 <a href="https://omzee.codes" target="_blank">
